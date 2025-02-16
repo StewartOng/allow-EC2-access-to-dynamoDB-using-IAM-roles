@@ -1,0 +1,1 @@
+# allow-EC2-access-to-dynamoDB-using-IAM-roles
